@@ -1,0 +1,5 @@
+youtube-transcript-api
+google-generativeai
+tqdm
+deepl
+regex
